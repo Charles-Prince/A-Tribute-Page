@@ -52,3 +52,8 @@ color:rgb(206, 36, 30);
 font-weight: bold;
 }
 
+#image{
+    display:block;
+    max-width: 500px;
+}
+
