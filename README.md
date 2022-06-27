@@ -7,6 +7,6 @@ It Is My First Ever Coding Project
 
 This Project Can Be Viewed Live at the following URL:
 
-https://charles-prince.github.io/Saint-Paul-Tribute-Page/
+https://charles-prince.github.io/A-Tribute-Page/
 
 Thanks!
